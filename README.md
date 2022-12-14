@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning Automation testing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail id is rs2310rsrs@gmail.com
+- 📫 How to reach me mail id is 
 
 <!---
 SRS23/SRS23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
